@@ -1,0 +1,6 @@
+Name: lfr
+ID: 100
+Weight: 10
+Type: Line Follower
+Speed: 200
+PID: 0.91, 0.11, 0.12
